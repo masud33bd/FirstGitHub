@@ -1,2 +1,2 @@
 # FirstGitHub
-CodeStore
+CodeStore is a big store
